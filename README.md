@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JMuirhead28
-- 👀 I’m interested in Data Science, Energy Trading and Sports
-- 🌱 I’m currently learning Machine Learning, Deep Learning
+- 👀 I’m interested in Data Engineering, Energy Trading and Sports
+- 🌱 I’m currently learning Data Warehousing, Data Pipelines and Spark
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://www.linkedin.com/in/joshua-muirhead-041255144/
 
